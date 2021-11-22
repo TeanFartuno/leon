@@ -1,0 +1,536 @@
+@media screen and (max-width: 1230px) {
+  .container {
+    width: 98%;
+  }
+
+  .contacts__phone {
+    margin-left: 30px;
+  }
+  .contacts__email {
+    margin-left: 46px;
+  }
+  .menu {
+    width: 98%;
+  }
+}
+
+@media screen and (max-width: 1140px) {
+  .container {
+    width: 98%;
+  }
+  .contacts__logo {
+    display: none;
+  }
+
+  .menu {
+    width: 98%;
+  }
+  .menu__item {
+    font-size: 19px;
+  }
+
+  .second__description,
+  .second__description-two {
+    width: 100%;
+  }
+
+  .a_place {
+    display: block;
+  }
+
+  .a_place_item img {
+    left: -3px;
+    margin-top: -150px;
+  }
+
+  .a_place_item p {
+    margin-top: 190px;
+  }
+}
+
+/*---ПЛАНШЕТЫ 728-960 ---*/
+@media screen and (max-width: 960px) {
+  .container {
+    width: 98%;
+  }
+  .contacts__email {
+    display: none;
+  }
+
+  .menu__item {
+    font-size: 16px;
+  }
+
+  .first {
+    background: url(../img/bglp.png) center top no-repeat;
+    padding-top: 154px;
+    background-position-y: -105px;
+  }
+  .first__adv {
+  }
+  .first__adv li {
+    line-height: 2.5;
+  }
+
+  .third h2 {
+    font-size: 5.5vw;
+  }
+
+  .third h2 {
+    margin-top: 100px;
+  }
+
+  .sixth {
+    padding-top: 100px;
+  }
+
+  .sixth h2 {
+    font-size: 5vw;
+  }
+
+  .seventh h2 {
+    font-size: 5vw;
+  }
+
+  .eleventh h2 {
+    font-size: 5vw;
+  }
+
+  .seventh {
+    padding-top: 100px;
+  }
+
+  .top {
+    display: block;
+  }
+
+  .bottom {
+    display: block;
+  }
+
+  .seventh {
+    background-size: contain;
+    padding-top: 150px;
+    margin-top: -40px;
+  }
+
+  .eighth h2 {
+    font-size: 5vw;
+  }
+
+  .eighth h2 img {
+    width: 100%;
+  }
+  .ninth h2 {
+    font-size: 5vw;
+  }
+
+  .eleventh h2 {
+    font-size: 5vw;
+  }
+
+  .content {
+    display: block;
+  }
+
+  .content-text {
+    width: 80%;
+    text-align: center;
+    margin: 40px auto 0px;
+  }
+
+  .info-btn {
+    margin: 30px auto 0px;
+  }
+
+  .eleventh-content {
+    display: block;
+  }
+
+  .leon {
+    display: block;
+    width: 100%;
+    position: relative;
+  }
+
+  .eleventh {
+    background: url(../img/Bg-eleventh-mob.png) center top no-repeat;
+  }
+
+  .third__btn-girl {
+    margin-top: 20px;
+  }
+}
+
+/*---МОБИЛЬНЫЕ 0-728 ---*/
+@media screen and (max-width: 728px) {
+  .container {
+    width: 93%;
+  }
+
+  .contacts {
+    display: block;
+  }
+  header {
+    height: 85px;
+  }
+
+  .contacts__phone img {
+    display: none;
+  }
+
+  .contacts__web,
+  .contacts__phone {
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-top: 10px;
+  }
+
+  .menu {
+    display: none;
+  }
+
+  .first {
+    background: url(../img/mobpl.png) center top no-repeat;
+    padding-top: 0px;
+    background-size: cover;
+    background-position-y: -30%;
+  }
+
+  h1 {
+    font-size: 8vw;
+    line-height: 1.1;
+    padding-top: 70%;
+  }
+
+  .first__description {
+    font-size: 4vw;
+    line-height: 1.2;
+    margin-top: 20px;
+  }
+
+  .first__adv {
+  }
+
+  .first__adv li {
+    line-height: 1.5;
+    font-size: 4vw;
+  }
+
+  .the-holidays {
+    display: block;
+  }
+
+  .slider p {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .slider-girl p {
+    width: 100%;
+    font-size: 16px;
+  }
+  .third h2 {
+    font-size: 7.5vw;
+  }
+
+  .bar-bat {
+    display: block;
+  }
+
+  .sixth h2 {
+    font-size: 6vw;
+  }
+
+  .seventh h2 {
+    font-size: 6vw;
+  }
+
+  .eighth h2 {
+    font-size: 6vw;
+  }
+
+  .ninth h2 {
+    font-size: 6vw;
+  }
+
+  .eleventh h2 {
+    font-size: 6vw;
+  }
+
+  .eighth h2 img {
+    width: 80%;
+    margin-top: -10px;
+  }
+
+  .content-video {
+    width: 100%;
+  }
+
+  .eighth {
+    padding-top: 20px;
+    margin-top: -129px;
+    padding-bottom: 230px;
+  }
+
+  .content-text {
+    width: 97%;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 15px;
+  }
+
+  .info-btn {
+    font-size: 20px;
+    width: 300px;
+  }
+
+  .eleventh-content {
+    display: block;
+  }
+
+  .fourth .container {
+    width: 94%;
+  }
+
+  footer .container {
+    display: block;
+  }
+
+  .footer__contact {
+    margin-top: 50px;
+    margin-left: -15px;
+  }
+
+  .first__adv img {
+    margin-top: -15px;
+  }
+}
+
+@media screen and (min-width: 729px) {
+  .topnav {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #colorbox {
+    margin-top: 60px !important;
+  }
+
+  .slider-for {
+    margin: 30px 0px;
+    position: relative;
+    height: 300px;
+  }
+
+  .slider-for a {
+    height: 300px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .slider-for a img {
+    height: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .slider-nav a {
+    height: 50px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .first {
+    background: url(../img/mobpl.png) center top no-repeat;
+    padding-top: 0px;
+    background-size: cover;
+    background-position-y: -91%;
+  }
+
+  .tenth {
+    padding-bottom: 115px;
+  }
+
+  .reviews__text {
+    font-size: 15px;
+    width: 100%;
+  }
+
+  .soc {
+    position: absolute;
+    top: 95%;
+    right: 50%;
+    margin-right: -150px;
+  }
+
+  .eleventh {
+    background: url(../img/Bg-eleventh-mob.png) center top no-repeat;
+    padding-bottom: 130px;
+  }
+
+  .eleventh .container {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .first {
+    background: url(../img/mobpl.png) center top no-repeat;
+    padding-top: 0px;
+    background-size: contain;
+    background-position-y: 71px;
+  }
+
+  .sixth h2 {
+    font-size: 7vw;
+  }
+
+  .seventh h2 {
+    font-size: 7vw;
+  }
+
+  .eighth h2 {
+    font-size: 7vw;
+  }
+
+  .ninth h2 {
+    font-size: 7vw;
+  }
+
+  .eleventh h2 {
+    font-size: 7vw;
+  }
+
+  .ninth {
+    margin-top: -250px;
+  }
+
+  .eleventh__desk {
+    font-size: 15px;
+  }
+
+  .Oluet {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .first {
+    background: url(../img/mobpl.png) center top no-repeat;
+    padding-top: 100px;
+    background-size: contain;
+    background-position-y: 125px;
+    padding-bottom: 36%;
+  }
+
+  h1 {
+    font-size: 9vw;
+    line-height: 1.1;
+    padding-top: 66%;
+  }
+
+  .first__description {
+    font-size: 4vw;
+    line-height: 1.2;
+    margin-top: 20px;
+  }
+
+  .first__adv {
+    margin-top: 16px;
+  }
+
+  .first__adv li {
+    line-height: 1.5;
+    font-size: 4.3vw;
+  }
+
+  .first__btn {
+    margin-top: 23px;
+  }
+
+  .second h2 {
+    font-size: 9vw;
+    text-align: center;
+    color: #760297;
+    text-transform: uppercase;
+    margin-top: 30px;
+  }
+
+  .the-holidays__from-girl img,
+  .the-holidays__from-boy img {
+    margin-top: 40px;
+  }
+
+  .spider-man {
+    width: 100%;
+  }
+
+  .third {
+    margin-top: -250px;
+    padding-bottom: 120px;
+  }
+
+  .second__description {
+    font-size: 16px;
+  }
+
+  .second__description-two {
+    font-size: 16px;
+  }
+
+  .third__btn {
+    margin: 0px auto;
+  }
+
+  .third__btn-girl {
+    margin: 0px auto;
+  }
+
+  .slider__item img {
+    width: 98%;
+  }
+  .slider-girl .slick-arrow {
+    top: 43%;
+  }
+
+  .footer__logo {
+    width: 300px;
+  }
+
+  .footer__logo img {
+    width: 300px;
+  }
+  .footer__contact {
+    margin-top: 75px;
+  }
+
+  .contact-phone a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+  }
+
+  .third__btn-girl {
+    margin-top: 20px;
+  }
+  .slider-girl__item img {
+    width: 98%;
+  }
+}
+
+@media (max-width: 800px) {
+  .whatsapp-button {
+    bottom: 5px; /*отступ кнопки снизу от экрана*/
+    left: 70px; /*отступ кнопки слева от экрана(right - справа)*/
+  }
+}

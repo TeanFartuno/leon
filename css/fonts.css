@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'TTRounds-Black';
+	src: url('../fonts/TTRounds-Black/TTRounds-Black.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/TTRounds-Black/TTRounds-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		url('../fonts/TTRounds-Black/TTRounds-Black.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/TTRounds-Black/TTRounds-Black.woff') format('woff'), /* Pretty Modern Browsers */
+		url('../fonts/TTRounds-Black/TTRounds-Black.ttf')  format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/TTRounds-Black/TTRounds-Black.svg.svg#svgFontName') format('svg'); /* Legacy iOS */
+		font-weight: 900;
+		font-style: normal;
+}
+
+@font-face {
+	font-family: 'TTRounds-Regular';
+	src: url('../fonts/TTRounds-Regular/TTRounds-Regular.eot'); /* IE9 Compat Modes */
+	src: url('../fonts/TTRounds-Regular/TTRounds-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+		url('../fonts/TTRounds-Regular/TTRounds-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/TTRounds-Regular/TTRounds-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+		url('../fonts/TTRounds-Regular/TTRounds-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/TTRounds-Regular/TTRounds-Regular.svg.svg#svgFontName') format('svg'); /* Legacy iOS */
+		font-weight: 500;
+		font-style: normal;
+}
